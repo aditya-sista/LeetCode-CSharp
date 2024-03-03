@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LC20.cs" />
     <Compile Include="LC206.cs" />
     <Compile Include="LC543.cs" />
     <Compile Include="LC70.cs" />
