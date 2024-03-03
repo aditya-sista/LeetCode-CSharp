@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="LC20.cs" />
     <Compile Include="LC206.cs" />
+    <Compile Include="LC234.cs" />
     <Compile Include="LC543.cs" />
     <Compile Include="LC70.cs" />
     <Compile Include="LC88.cs" />
