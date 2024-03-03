@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace EasyLC
 {
+    /// <summary>
+    /// Reverse a linked list.
+    /// </summary>
     public class LC206
     {
         // Iterative solution
